@@ -1,0 +1,18 @@
+USER_MAP = {
+    "jwbeen": "빈정원",
+    "PokingTeemo": "정윤섭",
+    "Cjunhyun": "최준현",
+    "ddhi7": "원동희",
+    "woody6624": "김우현",
+    "jiu-jung": "정지우",
+    "MarkSon-42": "손민우",
+    "Smallt0wn": "정장우",
+    "yheeeon": "임연희",
+    "geeoneee": "김지원",
+    "k-kbk": "김보겸",
+    "mooonu": "김승현",
+    "": "김근식",
+    "abroniasj416": "황수진",
+    "": "지유리",
+    "github-actions[bot]": "cheer-bot",
+}
