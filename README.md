@@ -23,7 +23,7 @@
 | 김승현 | [@mooonu](https://github.com/mooonu) | CKA |
 | 김근식 | - | - |
 | 황수진 | [@abroniasj416](https://github.com/abroniasj416) | 정보처리기사, AWS SAA, AWS SAP |
-| 지유리 | - | - |
+| 지유리 | [@ur2e](https://github.com/ur2e) | CKA, AWS SAA |
 
 ---
 
