@@ -11,8 +11,7 @@ USER_MAP = {
     "geeoneee": "김지원",
     "k-kbk": "김보겸",
     "mooonu": "김승현",
-    "": "김근식",
     "abroniasj416": "황수진",
-    "": "지유리",
+    "ur2e": "지유리",
     "github-actions[bot]": "cheer-bot",
 }
