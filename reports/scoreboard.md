@@ -1,6 +1,6 @@
 ## 🏅 Award
 
-- 🔥 Longest Streak: 빈정원 (1 streaks)
+- 🔥 Longest Streak: 손민우 (1 streaks)
 
 ## 📊 Score by Week
 
