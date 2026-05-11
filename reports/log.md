@@ -8,3 +8,9 @@
 
 ---
 
+## 👤 황수진
+
+- 2026-05-11 study +3 ([#18](https://github.com/cloud-club/09th-it-cert-study/issues/18))
+
+---
+
