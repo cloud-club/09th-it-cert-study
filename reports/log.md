@@ -8,6 +8,12 @@
 
 ---
 
+## 👤 임연희
+
+- 2026-05-12 study +3 ([#19](https://github.com/cloud-club/09th-it-cert-study/issues/19))
+
+---
+
 ## 👤 황수진
 
 - 2026-05-11 study +3 ([#18](https://github.com/cloud-club/09th-it-cert-study/issues/18))
