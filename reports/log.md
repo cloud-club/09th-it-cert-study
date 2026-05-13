@@ -1,5 +1,11 @@
 # 🧾 Score Log
 
+## 👤 김우현
+
+- 2026-05-13 study +3 ([#22](https://github.com/cloud-club/09th-it-cert-study/issues/22))
+
+---
+
 ## 👤 빈정원
 
 - 2026-05-12 study +3 ([#20](https://github.com/cloud-club/09th-it-cert-study/issues/20))
