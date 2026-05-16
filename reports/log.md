@@ -39,6 +39,12 @@
 
 ---
 
+## 👤 최준현
+
+- 2026-05-16 study +3 ([#26](https://github.com/cloud-club/09th-it-cert-study/issues/26))
+
+---
+
 ## 👤 황수진
 
 - 2026-05-11 study +3 ([#18](https://github.com/cloud-club/09th-it-cert-study/issues/18))
