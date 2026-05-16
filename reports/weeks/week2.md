@@ -1,12 +1,12 @@
 # Week 2 (2026-05-11 ~ 2026-05-17)
 
-## 🏅 Weekly MVP: 빈정원 (16 points)
+## 🏅 Weekly MVP: 빈정원 (19 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
-| 빈정원 | 💬+3 | ✅+3 | ✅+3 💬+3 | ✅+3 | 💬+1 | ⬜ | ⬜ | 16 |
+| 빈정원 | 💬+3 | ✅+3 | ✅+3 💬+3 | ✅+3 | 💬+1 | ✅+3 | ⬜ | 19 |
 | 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ⬜ | 6 |
 | 김우현 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | ⬜ | 6 |
 | 정윤섭 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
@@ -49,6 +49,16 @@
   - 13장. 네트워킹 관리
   - 14장. 네트워크 연결 스토리지 액세스
   - 15장. 네트워크 보안 관리
+
+##
+
+#### [260516] 공부 인증
+
+- RHCSA Rapid Track(RH199) 교재 학습
+  - 16장. 컨테이너 실행
+- 기출문제 학습
+  - 유튜브 : https://www.youtube.com/playlist?list=PLzwsIhHG_OdZiC6ugglW4TzjIM8wrJDrt
+  - 블로그 : https://www.geuni.tech/linux/rhcsa_practice
 
 ---
 
