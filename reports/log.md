@@ -7,6 +7,12 @@
 
 ---
 
+## 👤 김승현
+
+- 2026-05-18 study +3 ([#35](https://github.com/cloud-club/09th-it-cert-study/issues/35))
+
+---
+
 ## 👤 김우현
 
 - 2026-05-16 study +3 ([#27](https://github.com/cloud-club/09th-it-cert-study/issues/27))
