@@ -52,6 +52,12 @@
 
 ---
 
+## 👤 지유리
+
+- 2026-05-17 study +3 ([#34](https://github.com/cloud-club/09th-it-cert-study/issues/34))
+
+---
+
 ## 👤 최준현
 
 - 2026-05-17 study +3 ([#33](https://github.com/cloud-club/09th-it-cert-study/issues/33))
