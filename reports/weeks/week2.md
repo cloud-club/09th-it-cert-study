@@ -7,7 +7,7 @@
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
 | 빈정원 | 💬+3 | ✅+3 | ✅+3 💬+3 | ✅+3 | 💬+1 | ✅+3 💬+2 | ⬜ | 21 |
-| 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | 💬+1 | 7 |
+| 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ✅+3 💬+1 | 10 |
 | 정윤섭 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ✅+3 | 6 |
 | 정장우 | ⬜ | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | 6 |
 | 김우현 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | ⬜ | 6 |
@@ -68,6 +68,13 @@
 
 Topic Exam 문제(Databricks Certified Associate Developer - Apache Spark)  
 121번 ~ 150번 문제풀기
+
+##
+
+#### [260517] 공부 인증
+
+Topic Exam 문제(Databricks Certified Associate Developer - Apache Spark)  
+121번 ~ 170번 문제풀기
 
 ---
 
