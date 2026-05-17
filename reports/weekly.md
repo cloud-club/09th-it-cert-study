@@ -8,8 +8,8 @@
 |---|---|---|---|---|---|---|---|---|
 | 빈정원 | 💬+3 | ✅+3 | ✅+3 💬+3 | ✅+3 | 💬+1 | ✅+3 💬+2 | ⬜ | 21 |
 | 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ⬜ | 6 |
+| 정윤섭 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ✅+3 | 6 |
 | 김우현 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | ⬜ | 6 |
-| 정윤섭 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 정장우 | ⬜ | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | 3 |
 | 황수진 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 임연희 | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
@@ -71,6 +71,28 @@ Topic Exam 문제(Databricks Certified Associate Developer - Apache Spark)
 
 ---
 
+### 👤 정윤섭
+
+#### [260513] 공부 인증
+
+- Node, Namespace, kube-system Pod 상태 조회 및 describe 명령어 실습
+
+- study namespace 생성, 기본 namespace 설정, api-resources / explain / alias 설정
+
+- Docker Desktop k8s 기반 Prometheus / Grafana 모니터링 예제
+
+##
+
+#### [260517] 공부 인증
+
+- Kubernetes Deployment, ReplicaSet, Pod의 관계를 학습
+
+1. Deployment, ReplicaSet, Pod의 역할 및 관리 구조 확인
+2. 실습 Pod 삭제 후 ReplicaSet 기반 자동 복구 및 Self-Healing 동작 실습
+3. kubectl describe, logs, exec, rollout status, rollout undo를 활용한 상태 확인, 로그 조회, 내부 점검, 배포 이력 확인 및 rollback 실습
+
+---
+
 ### 👤 김우현
 
 #### [260513] 공부 인증
@@ -83,18 +105,6 @@ Topic Exam 문제(Databricks Certified Associate Developer - Apache Spark)
 
 [유데미]  
 AWS SAP-C02 섹션 5 - Advanced Amazon VPC 수강
-
----
-
-### 👤 정윤섭
-
-#### [260513] 공부 인증
-
-- Node, Namespace, kube-system Pod 상태 조회 및 describe 명령어 실습
-
-- study namespace 생성, 기본 namespace 설정, api-resources / explain / alias 설정
-
-- Docker Desktop k8s 기반 Prometheus / Grafana 모니터링 예제
 
 ---
 

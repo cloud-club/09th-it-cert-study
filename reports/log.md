@@ -33,6 +33,7 @@
 
 ## 👤 정윤섭
 
+- 2026-05-17 study +3 ([#30](https://github.com/cloud-club/09th-it-cert-study/issues/30))
 - 2026-05-13 study +3 ([#21](https://github.com/cloud-club/09th-it-cert-study/issues/21))
 
 ---
