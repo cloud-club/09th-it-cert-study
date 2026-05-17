@@ -1,5 +1,11 @@
 # 🧾 Score Log
 
+## 👤 김보겸
+
+- 2026-05-17 cheer +1 ([#29](https://github.com/cloud-club/09th-it-cert-study/issues/29))
+
+---
+
 ## 👤 김우현
 
 - 2026-05-16 study +3 ([#27](https://github.com/cloud-club/09th-it-cert-study/issues/27))
