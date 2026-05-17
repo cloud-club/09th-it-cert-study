@@ -9,9 +9,9 @@
 | 빈정원 | 💬+3 | ✅+3 | ✅+3 💬+3 | ✅+3 | 💬+1 | ✅+3 💬+2 | ⬜ | 21 |
 | 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ⬜ | 6 |
 | 정윤섭 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ✅+3 | 6 |
+| 정장우 | ⬜ | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | 6 |
 | 김우현 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | ⬜ | 6 |
 | 김보겸 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+1 | 4 |
-| 정장우 | ⬜ | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | 3 |
 | 황수진 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 임연희 | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 손민우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
@@ -93,6 +93,25 @@ Topic Exam 문제(Databricks Certified Associate Developer - Apache Spark)
 
 ---
 
+### 👤 정장우
+
+#### [260514] 공부 인증
+
+인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
+- ~ Section 6. EC2 Auto Scaling
+
+##
+
+#### [260517] 공부 인증
+
+인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
+
+~ Section 10. 네트워킹 및 콘텐츠 전송  
+
+강의 내 실전 기출 문제 보며, 문제 출제 유형 파악해보기
+
+---
+
 ### 👤 김우현
 
 #### [260513] 공부 인증
@@ -117,15 +136,6 @@ RHCSA v10 덤프 풀기.
 - Network 설정 (Manage Basic Networking)
 - Yum Repository 설정 (Manage software)
 - Firewall (Manage security, Deploy, configure, and maintain systems)
-
----
-
-### 👤 정장우
-
-#### [260514] 공부 인증
-
-인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
-- ~ Section 6. EC2 Auto Scaling
 
 ---
 
