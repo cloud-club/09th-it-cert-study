@@ -118,9 +118,6 @@ RHCSA v10 덤프 풀기.
 - Yum Repository 설정 (Manage software)
 - Firewall (Manage security, Deploy, configure, and maintain systems)
 
-주말 2일 연속 새벽 4시 퇴근하고 왔습니다...  
-그래도 요즘 회사에서 AIX 설치/환경 구성을 공부하고 있는데 RHCSA 공부에도 도움이 되는 것 같네요 👍
-
 ---
 
 ### 👤 정장우
