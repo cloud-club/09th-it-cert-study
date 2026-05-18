@@ -42,6 +42,12 @@
 
 ---
 
+## 👤 원동희
+
+- 2026-05-18 study +3 ([#36](https://github.com/cloud-club/09th-it-cert-study/issues/36))
+
+---
+
 ## 👤 임연희
 
 - 2026-05-12 study +3 ([#19](https://github.com/cloud-club/09th-it-cert-study/issues/19))
