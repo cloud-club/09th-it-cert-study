@@ -27,7 +27,7 @@
 
 ### 👤 빈정원
 
-## [260508] 공부 인증 -> [260508] 공부 인증
+#### [260508] 공부 인증
 
 - [RHCSA Lab Q13: Extract words with a certain string from a dictionary](https://www.youtube.com/watch?v=vVeZENoGrS8&list=PLzwsIhHG_OdZiC6ugglW4TzjIM8wrJDrt) 실습
 
@@ -35,7 +35,7 @@
 
 ### 👤 손민우
 
-## [260510] 공부 인증 -> [260510] 공부 인증
+#### [260510] 공부 인증
 
 section 11 까지 수강완.
 
@@ -43,7 +43,7 @@ section 11 까지 수강완.
 
 ### 👤 최준현
 
-## [260510] [🔥불합격] Databricks Spark
+#### [260510] [🔥불합격] Databricks Spark
 
 ---
 
