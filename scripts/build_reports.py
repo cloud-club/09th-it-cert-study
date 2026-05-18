@@ -263,6 +263,7 @@ def render_week_md(
     week_scores_for_week,
     week_day_scores_for_week,
     week_tils_for_week,
+    week_cert_results_for_week,
     all_users: list,
 ) -> str:
     start = week_start(STUDY_START) + timedelta(days=(week_num - 1) * 7)
@@ -320,25 +321,51 @@ def render_week_md(
     for idx_user, u in enumerate(users_for_week):
         lines.append(f"### 👤 {name(u)}\n\n")
 
-        items = sorted(
-            week_tils_for_week.get(u, []),
-            key=lambda x: x["created"],
-        )
+        entries = []
 
-        if not items:
-            lines.append("- 이번 주 공부 인증 기록 없음\n\n")
+        for item in week_tils_for_week.get(u, []):
+            entries.append(
+                {
+                    "kind": "study",
+                    "created": item["created"],
+                    "title": item["title"],
+                    "body": item["body"],
+                }
+            )
+
+        for item in week_cert_results_for_week.get(u, []):
+            entries.append(
+                {
+                    "kind": item["status"],
+                    "created": item["created"],
+                    "title": item["title"],
+                }
+            )
+
+        entries.sort(key=lambda x: x["created"])
+
+        if not entries:
+            lines.append("- 이번 주 공부/자격증 기록 없음\n\n")
         else:
-            for idx_item, item in enumerate(items):
-                lines.append(f"#### {item['title']}\n\n")
+            for idx_item, item in enumerate(entries):
+                created_day = item["created"].date().strftime("%y%m%d")
 
-                formatted_body = format_til_markdown(item["body"])
-                lines.append(formatted_body + "\n\n")
+                if item["kind"] == "study":
+                    lines.append(
+                        f"**[{created_day}] 공부 인증 -> {item['title']}**\n\n"
+                    )
+                    formatted_body = format_til_markdown(item["body"])
+                    lines.append(formatted_body + "\n\n")
+                else:
+                    lines.append(
+                        f"**[{created_day}] {item['title']}**\n\n"
+                    )
 
-                if idx_item < len(items) - 1:
-                    lines.append("##\n\n")
+                if idx_item < len(entries) - 1:
+                    lines.append("---\n\n")
 
         if idx_user < len(users_for_week) - 1:
-            lines.append("---\n\n")
+            lines.append("\n")
 
     return "".join(lines)
 
@@ -380,6 +407,7 @@ def main():
     )
 
     weekly_tils = defaultdict(lambda: defaultdict(list))
+    weekly_cert_results = defaultdict(lambda: defaultdict(list))
 
     weekly_breakdown = defaultdict(
         lambda: defaultdict(
@@ -516,6 +544,13 @@ def main():
             if created_day >= STUDY_START:
                 wk = week_index_from_study(created_day)
                 weekly_breakdown[user][wk]["pass"] += PASS_SCORE
+                weekly_cert_results[wk][user].append(
+                    {
+                        "status": "pass",
+                        "title": issue.get("title", f"Issue #{issue_num}"),
+                        "created": created_dt,
+                    }
+                )
 
         # fail
         if FAIL_LABEL in labels:
@@ -530,6 +565,13 @@ def main():
             if created_day >= STUDY_START:
                 wk = week_index_from_study(created_day)
                 weekly_breakdown[user][wk]["fail"] += FAIL_SCORE
+                weekly_cert_results[wk][user].append(
+                    {
+                        "status": "fail",
+                        "title": issue.get("title", f"Issue #{issue_num}"),
+                        "created": created_dt,
+                    }
+                )
 
     ranked_total = sorted(
         total_scores.items(),
@@ -704,6 +746,7 @@ def main():
             weekly_scores[wk],
             weekly_day_scores[wk],
             weekly_tils[wk],
+            weekly_cert_results[wk],
             all_users,
         )
 
@@ -717,6 +760,7 @@ def main():
         weekly_scores[current_week_number],
         weekly_day_scores[current_week_number],
         weekly_tils[current_week_number],
+        weekly_cert_results[current_week_number],
         all_users,
     )
 
@@ -752,14 +796,14 @@ def main():
             / (stats["pass"] + stats["fail"])
             * 100
         )
-    
+
     total_members = len(all_users)
     max_week_for_stats = max(weekly_scores.keys()) if weekly_scores else 0
-    
+
     stats_lines = []
-    
+
     stats_lines.append("# 📊 Study Statistics\n\n")
-    
+
     # 1. Activity
     stats_lines.append("## 📌 Activity\n\n")
     stats_lines.append(
@@ -779,30 +823,30 @@ def main():
         f"| {stats['pass']} | {stats['fail']} | "
         f"{pass_rate}% |\n"
     )
-    
+
     # 3. Weekly Participation
-    stats_lines.append("\n## 📈 Weekly Participation\n\n") 
+    stats_lines.append("\n## 📈 Weekly Participation\n\n")
     stats_lines.append("| Week | Participants | Rate |\n")
     stats_lines.append("|:---:|:---:|:---:|\n")
-    
+
     for wk in range(1, max_week_for_stats + 1):
         participants = sum(
             1
             for u in all_users
             if weekly_breakdown[u][wk]["study"] > 0
         )
-    
+
         rate = 0
         if total_members > 0:
             rate = round(participants / total_members * 100)
-    
+
         stats_lines.append(
             f"| Week{wk} | {participants} | {rate}% |\n"
         )
 
     stats_lines.append(f"> 전체 기준 인원: {total_members}명  \n")
     stats_lines.append("> 참여 인원: 해당 주차 스터디 인증 1회 이상 인원\n\n")
-    
+
     # 4. Study Activity by Weekday
     stats_lines.append("\n## 📅 Study Activity by Weekday\n\n")
     stats_lines.append("| Mon | Tue | Wed | Thu | Fri | Sat | Sun |\n")
@@ -813,7 +857,7 @@ def main():
         f"{weekday_activity[4]} | {weekday_activity[5]} | "
         f"{weekday_activity[6]} |\n"
     )
-    
+
     # 5. Study Activity by Time (4행 2열)
     stats_lines.append("\n## ⏰ Study Activity by Time\n\n")
     stats_lines.append("| Time | Count |\n")
@@ -830,7 +874,7 @@ def main():
     stats_lines.append(
         f"| 🌃 Night (00-06) | {time_activity['🌃 Night (00-06)']} |\n"
     )
-    
+
     Path("reports/stats.md").write_text(
         "".join(stats_lines),
         encoding="utf-8",
