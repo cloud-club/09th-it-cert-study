@@ -352,13 +352,13 @@ def render_week_md(
 
                 if item["kind"] == "study":
                     lines.append(
-                        f"## [{created_day}] 공부 인증 -> {item['title']}\n\n"
+                        f"#### [{created_day}] 공부 인증\n\n"
                     )
                     formatted_body = format_til_markdown(item["body"])
                     lines.append(formatted_body + "\n\n")
                 else:
                     lines.append(
-                        f"## [{created_day}] {item['title']}\n\n"
+                        f"#### [{created_day}] {item['title']}\n\n"
                     )
 
                 if idx_item < len(entries) - 1:
