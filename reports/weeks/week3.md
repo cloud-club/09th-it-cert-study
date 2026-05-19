@@ -1,13 +1,13 @@
 # Week 3 (2026-05-18 ~ 2026-05-24)
 
-## 🏅 Weekly MVP: 원동희 (3 points)
+## 🏅 Weekly MVP: 빈정원 (6 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
+| 빈정원 | 💬+3 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 6 |
 | 원동희 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
-| 빈정원 | 💬+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 김승현 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 김우현 | 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 1 |
 | 임연희 | 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 1 |
@@ -25,6 +25,15 @@
 
 ## 📚 TIL Summary
 
+### 👤 빈정원
+
+#### [260519] 공부 인증
+
+- RHCSA 기출문제 학습
+  - https://mandarindeveloper.tistory.com/2
+
+---
+
 ### 👤 원동희
 
 #### [260518] 공부 인증
@@ -33,12 +42,6 @@ Section7: Security
 - Authorization
 - Cluster Roles
 - Service Account
-
----
-
-### 👤 빈정원
-
-- 이번 주 공부/자격증 기록 없음
 
 ---
 
