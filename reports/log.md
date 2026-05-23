@@ -25,6 +25,7 @@
 
 - 2026-05-23 cert-pass 🥳+10 ([#40](https://github.com/cloud-club/09th-it-cert-study/issues/40))
 - 2026-05-23 study +3 ([#39](https://github.com/cloud-club/09th-it-cert-study/issues/39))
+- 2026-05-23 cheer +1 ([#38](https://github.com/cloud-club/09th-it-cert-study/issues/38))
 - 2026-05-19 study +3 ([#37](https://github.com/cloud-club/09th-it-cert-study/issues/37))
 - 2026-05-18 cheer +1 ([#36](https://github.com/cloud-club/09th-it-cert-study/issues/36))
 - 2026-05-18 cheer +1 ([#35](https://github.com/cloud-club/09th-it-cert-study/issues/35))
