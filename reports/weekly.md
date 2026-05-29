@@ -1,14 +1,14 @@
 # Week 4 (2026-05-25 ~ 2026-05-31)
 
-## 🏅 Weekly MVP: 임연희 (4 points)
+## 🏅 Weekly MVP: 정장우 (6 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
+| 정장우 | ✅+3 | ⬜ | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | 6 |
 | 임연희 | ⬜ | ✅+3 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 4 |
 | 최준현 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
-| 정장우 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 김승현 | 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 1 |
 | 손민우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
 | 정윤섭 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
@@ -24,6 +24,24 @@
 > ✅ Study +3 (하루 1회만 인정), 💬 Cheer +1 (하루 최대 3점)
 
 ## 📚 TIL Summary
+
+### 👤 정장우
+
+#### [260525] 공부 인증
+
+인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
+
+~ Section 12. 데이터 분석 서비스
+
+##
+
+#### [260529] 공부 인증
+
+인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
+
+~ Section 16. 네트워크 - Route53
+
+---
 
 ### 👤 임연희
 
@@ -42,16 +60,6 @@ Topic Exam (Databricks Certified Associate Developer - Apache Spark)
 191번 ~ 200번 문제풀이  
 
 Databricks Certified Associate Developer for Apache Spark 유데미 모의테스트 구매 완료..
-
----
-
-### 👤 정장우
-
-#### [260525] 공부 인증
-
-인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
-
-~ Section 12. 데이터 분석 서비스
 
 ---
 
