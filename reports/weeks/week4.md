@@ -1,12 +1,12 @@
 # Week 4 (2026-05-25 ~ 2026-05-31)
 
-## 🏅 Weekly MVP: 정장우 (6 points)
+## 🏅 Weekly MVP: 정장우 (9 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
-| 정장우 | ✅+3 | ⬜ | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | 6 |
+| 정장우 | ✅+3 | ⬜ | ⬜ | ⬜ | ✅+3 | ✅+3 | ⬜ | 9 |
 | 임연희 | ⬜ | ✅+3 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 4 |
 | 최준현 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 김승현 | 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 1 |
@@ -40,6 +40,14 @@
 인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
 
 ~ Section 16. 네트워크 - Route53
+
+##
+
+#### [260530] 공부 인증
+
+인프런 강의 수강 : AWS Certified Solutions Architect - Associate 자격증 준비하기  
+
+~ Section 23. 재해 복구
 
 ---
 
