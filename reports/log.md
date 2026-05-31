@@ -2,6 +2,7 @@
 
 ## 👤 김보겸
 
+- 2026-05-31 study +3 ([#52](https://github.com/cloud-club/09th-it-cert-study/issues/52))
 - 2026-05-31 cheer +1 ([#40](https://github.com/cloud-club/09th-it-cert-study/issues/40))
 - 2026-05-17 study +3 ([#31](https://github.com/cloud-club/09th-it-cert-study/issues/31))
 - 2026-05-17 cheer +1 ([#29](https://github.com/cloud-club/09th-it-cert-study/issues/29))
