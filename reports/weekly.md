@@ -1,13 +1,13 @@
 # Week 5 (2026-06-01 ~ 2026-06-07)
 
-## 🏅 Weekly MVP: 빈정원 (3 points)
+## 🏅 Weekly MVP: 빈정원 (4 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
+| 빈정원 | ⬜ | ⬜ | ✅+3 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | 4 |
 | 정지우 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
-| 빈정원 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
 | 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
 | 손민우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
 | 정윤섭 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
@@ -25,6 +25,14 @@
 
 ## 📚 TIL Summary
 
+### 👤 빈정원
+
+#### [260603] 공부 인증
+
+- [인프런 CKAD 강의](https://www.inflearn.com/course/certified-kubernetes-2?cid=341153) 수강
+
+---
+
 ### 👤 정지우
 
 #### [260601] 공부 인증
@@ -35,14 +43,6 @@ Github Actions Certificattion 를 따보려고 합니다! 가격은 수수료까
 https://learn.microsoft.com/en-us/training/courses/gh-200t00  
 
 오늘은 위의 강의 첫번째 강의 첫번째 장을 빠르게 읽었습니다
-
----
-
-### 👤 빈정원
-
-#### [260603] 공부 인증
-
-- [인프런 CKAD 강의](https://www.inflearn.com/course/certified-kubernetes-2?cid=341153) 수강
 
 ---
 
