@@ -31,6 +31,10 @@
 
 - [인프런 CKAD 강의](https://www.inflearn.com/course/certified-kubernetes-2?cid=341153) 수강
 
+##
+
+#### [260605] [🎉합격] CKAD
+
 ---
 
 ### 👤 정지우
