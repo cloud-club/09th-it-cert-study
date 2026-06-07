@@ -138,6 +138,7 @@
 
 ## 👤 황수진
 
+- 2026-06-07 study +3 ([#63](https://github.com/cloud-club/09th-it-cert-study/issues/63))
 - 2026-05-24 study +3 ([#42](https://github.com/cloud-club/09th-it-cert-study/issues/42))
 - 2026-05-24 cheer +1 ([#40](https://github.com/cloud-club/09th-it-cert-study/issues/40))
 - 2026-05-16 cert-pass 🥳+10 ([#29](https://github.com/cloud-club/09th-it-cert-study/issues/29))
