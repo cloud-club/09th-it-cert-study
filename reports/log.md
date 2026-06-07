@@ -93,6 +93,7 @@
 
 ## 👤 정장우
 
+- 2026-06-07 study +3 ([#60](https://github.com/cloud-club/09th-it-cert-study/issues/60))
 - 2026-05-30 study +3 ([#49](https://github.com/cloud-club/09th-it-cert-study/issues/49))
 - 2026-05-29 study +3 ([#48](https://github.com/cloud-club/09th-it-cert-study/issues/48))
 - 2026-05-25 study +3 ([#45](https://github.com/cloud-club/09th-it-cert-study/issues/45))
