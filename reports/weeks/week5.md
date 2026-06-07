@@ -1,14 +1,14 @@
 # Week 5 (2026-06-01 ~ 2026-06-07)
 
-## 🏅 Weekly MVP: 김보겸 (5 points)
+## 🏅 Weekly MVP: 빈정원 (7 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
+| 빈정원 | ⬜ | ⬜ | ✅+3 💬+1 | ⬜ | ⬜ | ⬜ | ✅+3 | 7 |
 | 김보겸 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+2 | 5 |
 | 정윤섭 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+1 | 4 |
-| 빈정원 | ⬜ | ⬜ | ✅+3 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | 4 |
 | 김우현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+1 | 4 |
 | 정장우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 | 3 |
 | 황수진 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 | 3 |
@@ -24,6 +24,24 @@
 > ✅ Study +3 (하루 1회만 인정), 💬 Cheer +1 (하루 최대 3점)
 
 ## 📚 TIL Summary
+
+### 👤 빈정원
+
+#### [260603] 공부 인증
+
+- [인프런 CKAD 강의](https://www.inflearn.com/course/certified-kubernetes-2?cid=341153) 수강
+
+##
+
+#### [260605] [🎉합격] CKAD
+
+##
+
+#### [260607] 공부 인증
+
+- AWS SAP ExamTopics 문제 풀기
+
+---
 
 ### 👤 김보겸
 
@@ -42,18 +60,6 @@
 
 Certified Kubernetes Administrator (CKA) 인프런 강의  
 - Section 3 Storage 완료
-
----
-
-### 👤 빈정원
-
-#### [260603] 공부 인증
-
-- [인프런 CKAD 강의](https://www.inflearn.com/course/certified-kubernetes-2?cid=341153) 수강
-
-##
-
-#### [260605] [🎉합격] CKAD
 
 ---
 
