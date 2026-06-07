@@ -130,6 +130,7 @@
 
 ## 👤 최준현
 
+- 2026-06-08 study +3 ([#66](https://github.com/cloud-club/09th-it-cert-study/issues/66))
 - 2026-05-27 study +3 ([#47](https://github.com/cloud-club/09th-it-cert-study/issues/47))
 - 2026-05-23 study +3 ([#41](https://github.com/cloud-club/09th-it-cert-study/issues/41))
 - 2026-05-23 cheer +1 ([#40](https://github.com/cloud-club/09th-it-cert-study/issues/40))
