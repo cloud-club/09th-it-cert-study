@@ -4,7 +4,7 @@
 
 | Study 인증 | Cheer 댓글 | 자격증 합격 | 자격증 불합격 |
 |:---:|:---:|:---:|:---:|
-| 47 | 44 | 3 | 0 |
+| 48 | 44 | 3 | 0 |
 
 ## 🎓 Certification Results
 
@@ -30,13 +30,13 @@
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 | 5 | 6 | 2 | 1 | 7 | 20 |
+| 6 | 5 | 6 | 2 | 2 | 7 | 20 |
 
 ## ⏰ Study Activity by Time
 
 | Time | Count |
 |:---:|:---:|
 | 🌅 Morning (06-12) | 3 |
-| ☀️ Afternoon (12-18) | 8 |
+| ☀️ Afternoon (12-18) | 9 |
 | 🌙 Evening (18-24) | 35 |
 | 🌃 Night (00-06) | 1 |
