@@ -1,12 +1,12 @@
 # Week 6 (2026-06-08 ~ 2026-06-14)
 
-## 🏅 Weekly MVP: 빈정원 (12 points)
+## 🏅 Weekly MVP: 빈정원 (13 points)
 
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
-| 빈정원 | 💬+3 | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ✅+3 | 12 |
+| 빈정원 | 💬+3 | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ✅+3 💬+1 | 13 |
 | 임연희 | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | 6 |
 | 정윤섭 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+1 | 4 |
 | 김보겸 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+1 | 4 |
@@ -40,7 +40,7 @@
 #### [260614] 공부 인증
 
 - AWS SAP 시험 응시
-- KCSA 공부 자료 만들기
+- KCSA 공부 자료 만들기 (https://app.notion.com/p/cloudclub-official/KCSA-37f658aef0b880b78739d89debe74231)
 - KCSA Domain 1: Overview of Cloud Native Security 문제 풀이
 
 ---
