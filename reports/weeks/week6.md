@@ -8,8 +8,8 @@
 |---|---|---|---|---|---|---|---|---|
 | 빈정원 | 💬+3 | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+3 | ⬜ | 9 |
 | 임연희 | ⬜ | ✅+3 | ⬜ | ⬜ | ✅+3 | ⬜ | ⬜ | 6 |
+| 김보겸 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 💬+1 | 4 |
 | 최준현 | ✅+3 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 3 |
-| 김보겸 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 | 3 |
 | 김우현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ✅+3 | 3 |
 | 손민우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
 | 정윤섭 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
@@ -48,15 +48,6 @@ JSCODE 유튜브 3.1 ~ 5.3 챕터
 
 ---
 
-### 👤 최준현
-
-#### [260608] 공부 인증
-
-Databricks Certified Associate Developer for Apache Spark  
-- Mock Exam 1 회 풀기 완료
-
----
-
 ### 👤 김보겸
 
 #### [260614] 공부 인증
@@ -65,6 +56,15 @@ Databricks Certified Associate Developer for Apache Spark
 - LVM
 - Swap
 - tuned
+
+---
+
+### 👤 최준현
+
+#### [260608] 공부 인증
+
+Databricks Certified Associate Developer for Apache Spark  
+- Mock Exam 1 회 풀기 완료
 
 ---
 
