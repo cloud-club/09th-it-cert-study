@@ -4,13 +4,13 @@
 
 | Study 인증 | Cheer 댓글 | 자격증 합격 | 자격증 불합격 |
 |:---:|:---:|:---:|:---:|
-| 52 | 49 | 3 | 0 |
+| 52 | 49 | 4 | 0 |
 
 ## 🎓 Certification Results
 
 | Pass | Fail | Pass Rate |
 |:---:|:---:|:---:|
-| 3 | 0 | 100% |
+| 4 | 0 | 100% |
 
 ## 📈 Weekly Participation
 
