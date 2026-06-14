@@ -137,6 +137,7 @@
 
 ## 👤 지유리
 
+- 2026-06-14 study +3 ([#75](https://github.com/cloud-club/09th-it-cert-study/issues/75))
 - 2026-06-06 study +3 ([#58](https://github.com/cloud-club/09th-it-cert-study/issues/58))
 - 2026-05-31 study +3 ([#54](https://github.com/cloud-club/09th-it-cert-study/issues/54))
 - 2026-05-24 study +3 ([#43](https://github.com/cloud-club/09th-it-cert-study/issues/43))
