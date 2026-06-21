@@ -112,6 +112,8 @@
 
 ## 👤 정윤섭
 
+- 2026-06-21 cheer +1 ([#77](https://github.com/cloud-club/09th-it-cert-study/issues/77))
+- 2026-06-21 cheer +1 ([#73](https://github.com/cloud-club/09th-it-cert-study/issues/73))
 - 2026-06-14 study +3 ([#72](https://github.com/cloud-club/09th-it-cert-study/issues/72))
 - 2026-06-14 cheer +1 ([#69](https://github.com/cloud-club/09th-it-cert-study/issues/69))
 - 2026-06-07 study +3 ([#59](https://github.com/cloud-club/09th-it-cert-study/issues/59))
