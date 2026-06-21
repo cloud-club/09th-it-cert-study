@@ -92,6 +92,7 @@
 
 ## 👤 원동희
 
+- 2026-06-21 study +3 ([#81](https://github.com/cloud-club/09th-it-cert-study/issues/81))
 - 2026-06-07 study +3 ([#64](https://github.com/cloud-club/09th-it-cert-study/issues/64))
 - 2026-05-31 study +3 ([#51](https://github.com/cloud-club/09th-it-cert-study/issues/51))
 - 2026-05-18 study +3 ([#36](https://github.com/cloud-club/09th-it-cert-study/issues/36))
