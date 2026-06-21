@@ -100,6 +100,7 @@
 
 ## 👤 임연희
 
+- 2026-06-21 cheer +1 ([#73](https://github.com/cloud-club/09th-it-cert-study/issues/73))
 - 2026-06-12 study +3 ([#68](https://github.com/cloud-club/09th-it-cert-study/issues/68))
 - 2026-06-09 study +3 ([#67](https://github.com/cloud-club/09th-it-cert-study/issues/67))
 - 2026-05-26 study +3 ([#46](https://github.com/cloud-club/09th-it-cert-study/issues/46))
