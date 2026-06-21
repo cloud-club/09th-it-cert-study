@@ -50,7 +50,7 @@
 
 #### [260621] 공부 인증
 
-Examtopics 30문제 풀이
+AWS SAP Examtopics 30문제 풀이
 
 ---
 
