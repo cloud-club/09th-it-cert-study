@@ -1,10 +1,12 @@
 # Week 8 (2026-06-22 ~ 2026-06-28)
 
+## 🏅 Weekly MVP: 최준현 (4 points)
+
 ## 📆 Week Score
 
 | User | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
 |---|---|---|---|---|---|---|---|---|
-| 최준현 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
+| 최준현 | ✅+3 💬+1 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 4 |
 | 손민우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
 | 정윤섭 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
 | 정장우 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 |
@@ -25,7 +27,14 @@
 
 ### 👤 최준현
 
-- 이번 주 공부/자격증 기록 없음
+#### [260622] 공부 인증
+
+TIL  
+Databricks Certified Associate Developer for Apache Spark  
+
+Mock Exam 3 회 풀기 완료  
+
+Mock Exam 2,1 회 오답 정리 완료
 
 ---
 
